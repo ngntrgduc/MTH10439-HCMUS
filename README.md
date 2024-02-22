@@ -6,6 +6,7 @@
 - Solutions to exercises in Numerical Linear Algebra by Trefethen and Bau: https://github.com/desh2608/numerical-linear-algebra
 - MATLAB solutions: https://github.com/leeyngdo/Numerical-Linear-Algebra
 - Nick Higham's blog: https://nhigham.com/blog/
+- Linear Algebra: Foundations to Frontiers: http://www.ulaff.net/. Recommend ALAFF
 
 ## Miễn trừ trách nhiệm (Disclaimer)
 - Chỉ sử dụng cho mục đích tham khảo
